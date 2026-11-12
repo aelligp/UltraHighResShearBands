@@ -1,0 +1,45 @@
+# Official format description at https://citation-file-format.github.io
+cff-version: "1.2.0"
+title: "Ultra-High-Resolution Modelling Reveals the Complexity of Evolving Shear Band Networks"
+message: If you use this software, please cite the publication below and this repository.
+type: software
+license: MIT
+authors: &authors
+- family-names: Aellig
+  given-names: Pascal S.
+  affiliation: "Institute of Geosciences, Johannes Gutenberg University Mainz, Mainz, Germany; Mainz Institute of Multiscale Modeling, Johannes Gutenberg University, Mainz, Germany"
+  orcid: "https://orcid.org/0009-0008-9039-5646"
+  email: paellig@uni-mainz.de
+- family-names: Montserrat
+  given-names: Albert
+  name-particle: de
+  affiliation: "Geophysical Fluid Dynamics, Institute of Geophysics, Department of Earth and Planetary Sciences, ETH Zurich, Zurich, Switzerland"
+  orcid: "https://orcid.org/0000-0003-1694-3735"
+- family-names: Duretz
+  given-names: Thibault
+  affiliation: "Institut für Geowissenschaften, Goethe-Universität Frankfurt, Frankfurt, Germany; School of Engineering, HES-SO Valais-Wallis, HES-SO University of Applied Sciences and Arts Western Switzerland, Sion, Switzerland"
+  orcid: "https://orcid.org/0000-0001-8472-7490"
+- family-names: Räss
+  given-names: Ludovic
+  affiliation: "Institute of Earth Sciences, University of Lausanne, Lausanne, Switzerland"
+  orcid: "https://orcid.org/0000-0002-1136-899X"
+- family-names: Kaus
+  given-names: Boris J. P.
+  affiliation: "Institute of Geosciences, Johannes Gutenberg University Mainz, Mainz, Germany; Mainz Institute of Multiscale Modeling, Johannes Gutenberg University, Mainz, Germany"
+  orcid: "https://orcid.org/0000-0002-0247-8660"
+- family-names: Utkin
+  given-names: Ivan
+  affiliation: "Laboratory of Hydraulics, Hydrology and Glaciology (VAW), ETH Zurich, Zurich, Switzerland; Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), bâtiment ALPOLE, Sion, Switzerland"
+  orcid: "https://orcid.org/0000-0002-5233-6783"
+keywords:
+  - shear bands
+  - strain localization
+  - visco-elasto-viscoplasticity
+  - ultra-high resolution
+  - GPU computing
+  - Julia
+preferred-citation:
+  type: article
+  title: "Ultra-High-Resolution Modelling Reveals the Complexity of Evolving Shear Band Networks"
+  authors: *authors
+  journal: Geodynamica

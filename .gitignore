@@ -1,0 +1,17 @@
+# model output and generated job scripts
+Resolution_Study/
+Refinements/
+Reg_Viscosity_Systematics/
+Tolerance_Study/
+slurm_jobs/
+
+# post-processing output
+Post_processing/data/
+Post_processing/Figures/
+
+# the Manifest pins the package versions of the publication
+!Manifest.toml
+
+# local preferences
+LocalPreferences.toml
+.DS_Store
