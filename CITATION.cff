@@ -4,6 +4,7 @@ title: "Ultra-High-Resolution Modelling Reveals the Complexity of Evolving Shear
 message: If you use this software, please cite the publication below and this repository.
 type: software
 license: MIT
+doi: 10.5281/zenodo.24161425
 authors: &authors
 - family-names: Aellig
   given-names: Pascal S.

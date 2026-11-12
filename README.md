@@ -1,10 +1,12 @@
 # Ultra-High-Resolution Modelling Reveals the Complexity of Evolving Shear Band Networks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24161426.svg)](https://doi.org/10.5281/zenodo.24161426)
+
 This repository contains the scripts that reproduce the results of
 
 > Aellig, P. S., de Montserrat, A., Duretz, T., Räss, L., Kaus, B. J. P., and Utkin, I.: Ultra-High-Resolution Modelling Reveals the Complexity of Evolving Shear Band Networks, *Geodynamica*.
 
-The model is a 2D visco-elasto-viscoplastic pure-shear box with a weak circular inclusion, solved on GPUs with [JustRelax.jl](https://github.com/PTsolvers/JustRelax.jl). The scripts run every model of the publication, from 64² up to 40946² cells, and compute every figure and table from the model output. If you use this code, please cite the publication and this repository (see [CITATION.cff](CITATION.cff)).
+The model is a 2D visco-elasto-viscoplastic pure-shear box with a weak circular inclusion, solved on GPUs with [JustRelax.jl](https://github.com/PTsolvers/JustRelax.jl). The scripts run every model of the publication, from 64² up to 40946² cells, and compute every figure and table from the model output. If you use this code, please cite the publication and this repository, [doi:10.5281/zenodo.24161425](https://doi.org/10.5281/zenodo.24161425) (see [CITATION.cff](CITATION.cff)).
 
 ## Requirements
 
